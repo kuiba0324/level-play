@@ -2,4 +2,9 @@ this is beijun.txt
 
 i am change to dev2 branch.
 
-now iam in master to make a real conflict.and is down.
+
+i am making conflict
+
+i make a conflict on dev2
+
+i am making a conflict
