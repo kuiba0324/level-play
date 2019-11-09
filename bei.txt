@@ -1,3 +1,10 @@
 this is beijun.txt
 
 i am change to dev2 branch.
+
+i am making conflict
+
+i make a conflict on dev2
+
+i am making a conflict on dev3
+
