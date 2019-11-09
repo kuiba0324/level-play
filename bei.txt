@@ -1,3 +1,5 @@
 this is beijun.txt
 
 i am change to dev2 branch.
+
+now iam in master to make a real conflict
