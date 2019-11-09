@@ -1,4 +1,5 @@
 level is studying git.
 beijun is also studying git.
 today is saturday.
-
+wind
+to unstage
