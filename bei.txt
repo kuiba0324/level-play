@@ -6,5 +6,6 @@ i am making conflict
 
 i make a conflict on dev2
 
-i am making a conflict on dev3
+i am making a conflict
+
 
